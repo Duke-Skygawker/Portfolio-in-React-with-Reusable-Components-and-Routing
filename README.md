@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+# Chapter 2, Creating a Portfolio in React with Reusable Components and Routing,
+
+will explain how to set up and re-use styling in React components throughout your entire application. We will build a GitHub Card application to see how to use CSS in JavaScript and re-use components and styling in your application. Next to this, you'll learn about implementing navigation with React Router v6.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
