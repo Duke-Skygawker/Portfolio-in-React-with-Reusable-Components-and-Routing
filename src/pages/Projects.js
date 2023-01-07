@@ -1,4 +1,8 @@
-function Profile({ userName }) {
+import { useState, useEffect } from "react";
+import List from "../components/List";
+import Link from "../components/Link";
+
+function Projects({ userName }) {
   const [loading, setLoading] = useState(false);
   const [projects, setProjects] = useState({});
 
