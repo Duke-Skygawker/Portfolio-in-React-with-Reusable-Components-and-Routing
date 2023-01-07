@@ -40,7 +40,7 @@ function Profile({ userName }) {
       {loading ? (
         <span>Loading...</span>
       ) : (
-        <div className="profile-container">
+        <div>
           <img
             className="profile-avatar"
             src={profile.avatar_url}
