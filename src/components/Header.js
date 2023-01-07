@@ -1,5 +1,5 @@
 import "./Header.css";
-import "./Link";
+import Link from "./Link.js";
 
 function Header({ logo }) {
   return (
