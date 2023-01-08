@@ -3,7 +3,7 @@ import List from "../components/List";
 import Link from "../components/Link";
 
 function Projects({ userName }) {
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(true);
   const [projects, setProjects] = useState({});
 
   useEffect(() => {

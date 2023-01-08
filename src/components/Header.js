@@ -17,5 +17,6 @@ function Header({ logo }) {
     </header>
   );
 }
+// projects page doesn't render
 
 export default Header;
